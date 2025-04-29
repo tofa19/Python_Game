@@ -1,0 +1,732 @@
+2025-04-08 08:42:01,445 - INFO - Images loaded successfully.
+2025-04-08 08:44:54,748 - INFO - Images loaded successfully.
+2025-04-08 08:44:54,749 - INFO - Game state reset.
+2025-04-08 08:44:55,355 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 08:44:55,897 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 08:44:56,456 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (2, 3), (4, 3), (5, 4), (5, 6)]
+2025-04-08 08:44:57,107 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 08:45:00,049 - INFO - Player 1 selected piece at (2, 4). Possible moves: [(1, 3), (1, 5), (3, 4)]
+2025-04-08 08:45:03,586 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 08:45:10,877 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-08 08:45:11,445 - WARNING - Invalid move attempt from (6, 0) to (6, 0)
+2025-04-08 08:45:11,832 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-08 08:45:12,658 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 08:46:05,649 - INFO - Images loaded successfully.
+2025-04-08 08:46:05,649 - INFO - Game state reset.
+2025-04-08 08:46:07,466 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 08:46:08,023 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 08:46:10,123 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (2, 3), (4, 3), (5, 4), (5, 6)]
+2025-04-08 08:46:11,032 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 08:46:14,298 - INFO - Player 1 selected piece at (2, 4). Possible moves: [(1, 3), (1, 5), (3, 3), (3, 4)]
+2025-04-08 08:46:14,906 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 08:46:16,906 - INFO - Player 2 selected piece at (4, 3). Possible moves: [(2, 2), (2, 4), (3, 5), (5, 1), (5, 5), (6, 2), (6, 4)]
+2025-04-08 08:46:21,498 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 08:46:23,066 - INFO - Player 1 selected piece at (1, 5). Possible moves: [(0, 4), (0, 6), (2, 4), (2, 6)]
+2025-04-08 08:46:23,589 - INFO - King captured knight at (2, 4). Total kills: 1
+2025-04-08 08:46:23,589 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 08:53:19,651 - INFO - Images loaded successfully.
+2025-04-08 08:53:19,651 - INFO - Game state reset.
+2025-04-08 08:53:20,213 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 08:53:20,619 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 08:53:21,227 - INFO - Player 2 selected piece at (3, 1). Possible moves: [(1, 0), (1, 2), (2, 3), (4, 3), (5, 0), (5, 2)]
+2025-04-08 08:53:21,905 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 08:53:23,403 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 2), (3, 3)]
+2025-04-08 08:53:23,844 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 08:53:24,276 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (2, 3), (5, 4), (5, 6)]
+2025-04-08 08:53:25,420 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 08:53:26,611 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 3), (3, 2), (3, 4), (4, 2), (4, 3), (4, 4)]
+2025-04-08 08:53:27,361 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 08:53:27,987 - INFO - Player 2 selected piece at (4, 3). Possible moves: [(2, 2), (2, 4), (3, 1), (3, 5), (5, 1), (5, 5), (6, 2), (6, 4)]
+2025-04-08 08:53:30,551 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-08 08:53:32,636 - INFO - Player 1 selected piece at (4, 4). Possible moves: [(5, 3), (5, 5)]
+2025-04-08 08:53:33,395 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-08 08:53:35,500 - INFO - Player 2 selected piece at (5, 5). Possible moves: [(3, 4), (3, 6), (4, 3), (6, 3)]
+2025-04-08 08:53:36,056 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-08 08:53:36,560 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 3), (4, 4), (6, 3)]
+2025-04-08 08:53:37,326 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-08 08:53:38,070 - INFO - Player 2 selected piece at (4, 3). Possible moves: [(2, 2), (2, 4), (3, 1), (3, 5), (5, 1), (5, 5), (6, 2), (6, 4)]
+2025-04-08 08:53:39,172 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-08 08:53:40,655 - INFO - Player 1 selected piece at (6, 3). Possible moves: [(5, 3), (6, 2), (6, 4)]
+2025-04-08 08:53:41,129 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-08 08:53:41,903 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-08 08:53:43,313 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-08 08:53:44,333 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 4), (5, 2), (6, 4)]
+2025-04-08 08:53:46,939 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-08 08:53:47,879 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-08 08:53:50,263 - WARNING - Invalid move attempt from (6, 6) to (6, 6)
+2025-04-08 08:53:50,971 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-08 08:53:51,865 - WARNING - Invalid move attempt from (6, 6) to (6, 6)
+2025-04-08 08:53:53,390 - INFO - Player 2 selected piece at (5, 5). Possible moves: [(3, 4), (3, 6), (4, 3), (6, 3)]
+2025-04-08 08:53:55,426 - WARNING - Invalid move attempt from (5, 5) to (5, 5)
+2025-04-08 08:53:56,207 - INFO - Player 2 selected piece at (1, 4). Possible moves: [(0, 2), (2, 2), (2, 6), (3, 3), (3, 5)]
+2025-04-08 08:53:59,842 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-08 08:54:00,599 - INFO - Player 1 selected piece at (4, 4). Possible moves: [(3, 5), (5, 5)]
+2025-04-08 08:54:03,606 - INFO - King captured knight at (5, 5). Total kills: 1
+2025-04-08 08:54:03,606 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-08 08:54:04,451 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (2, 3), (4, 3), (5, 4), (5, 6)]
+2025-04-08 08:54:05,780 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-08 08:54:06,962 - INFO - Player 1 selected piece at (5, 5). Possible moves: [(4, 4), (4, 6), (5, 6), (6, 5), (6, 6)]
+2025-04-08 08:54:08,907 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-08 08:54:09,682 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-08 08:54:10,299 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-08 09:07:10,715 - INFO - Images loaded successfully.
+2025-04-08 09:07:10,716 - INFO - Game state reset. Mode: pva
+2025-04-08 09:07:11,443 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 09:07:12,118 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 09:07:12,244 - INFO - AI chose move: ((6, 6), (4, 5)) from 2 candidates with score: 32.0
+2025-04-08 09:07:12,245 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 09:07:13,152 - INFO - Player 1 selected piece at (2, 4). Possible moves: [(1, 3), (1, 5), (3, 4), (3, 5)]
+2025-04-08 09:07:13,885 - INFO - King captured knight at (3, 5). Total kills: 1
+2025-04-08 09:07:13,885 - INFO - AI displayed taunt: A lucky shot... won't happen again.
+2025-04-08 09:07:13,885 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 09:07:14,011 - INFO - AI chose move: ((3, 1), (2, 3)) from 1 candidates with score: 31.4
+2025-04-08 09:07:14,011 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 09:07:17,309 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(3, 4), (3, 6), (4, 5), (4, 6)]
+2025-04-08 09:07:18,356 - INFO - King captured knight at (4, 5). Total kills: 2
+2025-04-08 09:07:18,356 - INFO - AI displayed taunt: Did that make you feel better, your majesty?
+2025-04-08 09:07:18,356 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 09:07:18,356 - INFO - Game Over: King captured 2 knights.
+2025-04-08 09:07:18,367 - INFO - Scores saved to scores.json
+2025-04-08 09:15:20,755 - INFO - Images loaded successfully.
+2025-04-08 09:15:20,756 - INFO - Game state reset. Mode: pvp
+2025-04-08 09:17:47,048 - INFO - Images loaded successfully.
+2025-04-08 09:17:47,049 - INFO - Game state reset. Mode: pvp
+2025-04-08 09:18:06,531 - INFO - Images loaded successfully.
+2025-04-08 09:18:06,532 - INFO - Game state reset. Mode: pva
+2025-04-08 09:18:07,258 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 09:18:08,351 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 09:18:08,476 - INFO - AI chose move: ((0, 0), (1, 2)) from 2 candidates with score: 32.0
+2025-04-08 09:18:08,476 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 09:18:09,887 - INFO - Player 1 selected piece at (2, 4). Possible moves: [(1, 3), (1, 5), (3, 4), (3, 5)]
+2025-04-08 09:18:10,830 - INFO - King captured knight at (3, 5). Total kills: 1
+2025-04-08 09:18:10,830 - INFO - AI displayed taunt: That piece was expendable.
+2025-04-08 09:18:10,830 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 09:18:10,954 - INFO - AI chose move: ((3, 1), (2, 3)) from 1 candidates with score: 31.4
+2025-04-08 09:18:10,954 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 09:18:13,688 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(2, 6), (3, 4), (3, 6), (4, 6)]
+2025-04-08 09:18:14,556 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 09:18:14,678 - INFO - AI chose move: ((2, 3), (1, 5)) from 2 candidates with score: 34.4
+2025-04-08 09:18:14,678 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-08 09:18:15,947 - INFO - Player 1 selected piece at (3, 4). Possible moves: [(3, 5), (4, 3), (4, 4)]
+2025-04-08 09:18:16,772 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-08 09:18:16,898 - INFO - AI chose move: ((0, 6), (1, 4)) from 2 candidates with score: 35.2
+2025-04-08 09:18:16,898 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-08 09:18:17,557 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(2, 5), (4, 4), (4, 6)]
+2025-04-08 09:18:18,043 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-08 09:18:18,165 - INFO - AI chose move: ((1, 2), (0, 4)) from 2 candidates with score: 36.0
+2025-04-08 09:18:18,165 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-08 09:18:18,766 - INFO - Player 1 selected piece at (2, 5). Possible moves: [(1, 4), (1, 5), (2, 4)]
+2025-04-08 09:18:19,438 - INFO - King captured knight at (1, 4). Total kills: 2
+2025-04-08 09:18:19,438 - INFO - AI displayed taunt: Impressive... for a king.
+2025-04-08 09:18:19,438 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-08 09:18:19,562 - INFO - AI chose move: ((6, 6), (4, 5)) from 1 candidates with score: 8.5
+2025-04-08 09:18:19,563 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-08 09:18:20,975 - INFO - Player 1 selected piece at (1, 4). Possible moves: [(0, 4), (0, 5), (1, 3), (1, 5)]
+2025-04-08 09:18:22,851 - INFO - King captured knight at (1, 5). Total kills: 3
+2025-04-08 09:18:22,851 - INFO - AI displayed taunt: Is that all you've got?
+2025-04-08 09:18:22,851 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-08 09:18:22,975 - INFO - AI chose move: ((0, 4), (2, 3)) from 1 candidates with score: 27.333333333333336
+2025-04-08 09:18:22,975 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-08 09:18:23,880 - INFO - Player 1 selected piece at (1, 5). Possible moves: [(0, 5), (0, 6), (1, 4), (1, 6), (2, 5)]
+2025-04-08 09:18:25,598 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-08 09:18:25,721 - INFO - AI chose move: ((4, 5), (2, 6)) from 2 candidates with score: 28.666666666666664
+2025-04-08 09:18:25,722 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-08 09:18:26,283 - INFO - Player 1 selected piece at (1, 4). Possible moves: [(0, 3), (1, 3), (2, 3), (2, 4), (2, 5)]
+2025-04-08 09:18:27,083 - INFO - King captured knight at (2, 3). Total kills: 4
+2025-04-08 09:18:27,083 - INFO - AI displayed taunt: That piece was expendable.
+2025-04-08 09:18:27,083 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-08 09:18:27,209 - INFO - AI chose move: ((6, 0), (4, 1)) from 1 candidates with score: 9.0
+2025-04-08 09:18:27,209 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-08 09:18:32,442 - INFO - Player 1 selected piece at (2, 3). Possible moves: [(1, 2), (1, 3), (2, 4), (3, 2)]
+2025-04-08 09:18:32,998 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-08 09:18:33,121 - INFO - AI chose move: ((4, 1), (5, 3)) from 2 candidates with score: 24.0
+2025-04-08 09:18:33,121 - INFO - Turn switched to Player 1. Turn count: 11
+2025-04-08 09:18:33,716 - INFO - Player 1 selected piece at (3, 2). Possible moves: [(2, 1), (2, 2), (2, 3), (3, 1), (3, 3), (4, 2), (4, 3)]
+2025-04-08 09:18:34,253 - INFO - Turn switched to Player 2. Turn count: 11
+2025-04-08 09:18:34,378 - INFO - AI chose move: ((2, 6), (3, 4)) from 2 candidates with score: 13.0
+2025-04-08 09:18:34,378 - INFO - Turn switched to Player 1. Turn count: 12
+2025-04-08 09:18:34,954 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 3), (4, 4), (5, 2), (5, 4)]
+2025-04-08 09:18:37,237 - INFO - Turn switched to Player 2. Turn count: 12
+2025-04-08 09:18:37,361 - INFO - AI chose move: ((5, 3), (4, 5)) from 1 candidates with score: 34.0
+2025-04-08 09:18:37,361 - INFO - Turn switched to Player 1. Turn count: 13
+2025-04-08 09:18:37,958 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 3), (3, 2), (3, 4), (4, 3), (4, 4)]
+2025-04-08 09:18:38,446 - INFO - King captured knight at (3, 4). Total kills: 5
+2025-04-08 09:18:38,446 - INFO - AI displayed taunt: My network learns from your 'success'.
+2025-04-08 09:18:38,446 - INFO - Turn switched to Player 2. Turn count: 13
+2025-04-08 09:18:38,446 - INFO - Game Over: King captured 5 knights (more than 4).
+2025-04-08 09:18:38,465 - INFO - Scores saved to scores.json
+2025-04-08 09:19:21,296 - INFO - Images loaded successfully.
+2025-04-08 09:19:21,297 - INFO - Game state reset. Mode: pvp
+2025-04-08 09:19:22,158 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 09:19:22,749 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 09:19:24,399 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (2, 3), (4, 3), (5, 4), (5, 6)]
+2025-04-08 09:19:27,638 - INFO - Images loaded successfully.
+2025-04-08 09:19:27,639 - INFO - Game state reset. Mode: pva
+2025-04-08 09:19:28,921 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 09:19:29,679 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 09:19:29,802 - INFO - AI chose move: ((0, 6), (2, 5)) from 2 candidates with score: 32.0
+2025-04-08 09:19:29,803 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 09:19:30,800 - INFO - Player 1 selected piece at (4, 4). Possible moves: [(3, 4), (3, 5), (5, 3), (5, 5)]
+2025-04-08 09:19:31,356 - INFO - King captured knight at (3, 5). Total kills: 1
+2025-04-08 09:19:31,356 - INFO - AI displayed taunt: Is that all you've got?
+2025-04-08 09:19:31,356 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 09:19:31,481 - INFO - AI chose move: ((3, 1), (4, 3)) from 1 candidates with score: 31.4
+2025-04-08 09:19:31,482 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 09:19:32,107 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(2, 5), (2, 6), (3, 4), (3, 6)]
+2025-04-08 09:19:32,531 - INFO - King captured knight at (2, 5). Total kills: 2
+2025-04-08 09:19:32,531 - INFO - AI displayed taunt: A futile gesture.
+2025-04-08 09:19:32,531 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 09:19:32,655 - INFO - AI chose move: ((6, 6), (4, 5)) from 1 candidates with score: 2.0
+2025-04-08 09:19:32,655 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-08 09:19:33,201 - INFO - Player 1 selected piece at (2, 5). Possible moves: [(1, 4), (1, 5), (1, 6), (3, 4), (3, 6)]
+2025-04-08 09:19:33,917 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-08 09:19:34,042 - INFO - AI chose move: ((4, 3), (2, 2)) from 4 candidates with score: 28.5
+2025-04-08 09:19:34,042 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-08 09:19:34,427 - INFO - Player 1 selected piece at (3, 4). Possible moves: [(2, 3), (2, 5), (3, 5), (4, 4), (4, 5)]
+2025-04-08 09:19:34,948 - INFO - King captured knight at (4, 5). Total kills: 3
+2025-04-08 09:19:34,948 - INFO - AI displayed taunt: Did that make you feel better, your majesty?
+2025-04-08 09:19:34,948 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-08 09:19:35,071 - INFO - AI chose move: ((2, 2), (3, 4)) from 3 candidates with score: -2.0
+2025-04-08 09:19:35,071 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-08 09:19:35,505 - INFO - Player 1 selected piece at (4, 5). Possible moves: [(3, 4), (3, 5), (3, 6), (4, 4), (5, 4), (5, 6)]
+2025-04-08 09:19:39,390 - INFO - King captured knight at (3, 4). Total kills: 4
+2025-04-08 09:19:39,390 - INFO - AI displayed taunt: Don't get cocky.
+2025-04-08 09:19:39,390 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-08 09:19:39,390 - INFO - Game Over: King captured 4 knights (more than 4).
+2025-04-08 09:19:39,407 - INFO - Scores saved to scores.json
+2025-04-08 09:19:45,459 - INFO - Images loaded successfully.
+2025-04-08 09:19:45,460 - INFO - Game state reset. Mode: pva
+2025-04-08 09:19:52,167 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-08 09:19:53,744 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-08 09:19:53,869 - INFO - AI chose move: ((6, 6), (5, 4)) from 2 candidates with score: 32.0
+2025-04-08 09:19:53,869 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-08 09:19:54,541 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 1), (3, 2), (5, 1), (5, 3)]
+2025-04-08 09:19:56,360 - INFO - King captured knight at (3, 1). Total kills: 1
+2025-04-08 09:19:56,360 - INFO - AI displayed taunt: Don't get cocky.
+2025-04-08 09:19:56,360 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-08 09:19:56,485 - INFO - AI chose move: ((3, 5), (4, 3)) from 1 candidates with score: 31.4
+2025-04-08 09:19:56,485 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-08 09:19:57,278 - INFO - Player 1 selected piece at (3, 1). Possible moves: [(2, 0), (3, 0), (3, 2), (4, 0)]
+2025-04-08 09:19:58,593 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-08 09:19:58,717 - INFO - AI chose move: ((0, 0), (2, 1)) from 1 candidates with score: 37.8
+2025-04-08 09:19:58,717 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-08 09:19:59,379 - INFO - Player 1 selected piece at (4, 0). Possible moves: [(3, 0), (5, 0)]
+2025-04-08 09:20:00,302 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-08 09:20:00,427 - INFO - AI chose move: ((5, 4), (4, 2)) from 1 candidates with score: 41.6
+2025-04-08 09:20:00,427 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-08 09:20:01,251 - INFO - Player 1 selected piece at (3, 0). Possible moves: [(2, 0)]
+2025-04-08 09:20:02,505 - WARNING - Invalid move destination (2, 1) attempted for piece at (3, 0)
+2025-04-08 09:20:03,658 - INFO - Player 1 selected piece at (3, 0). Possible moves: [(2, 0)]
+2025-04-08 09:20:05,891 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-08 09:20:06,016 - INFO - AI chose move: ((6, 0), (4, 1)) from 1 candidates with score: 38.6
+2025-04-08 09:20:06,016 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-08 09:20:07,103 - INFO - Player 1 selected piece at (2, 0). Possible moves: [(1, 0), (1, 1)]
+2025-04-08 09:20:08,233 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-08 09:20:08,358 - INFO - AI chose move: ((4, 2), (3, 0)) from 2 candidates with score: 33.8
+2025-04-08 09:20:08,359 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-08 09:20:09,120 - INFO - Player 1 selected piece at (1, 1). Possible moves: [(0, 1), (1, 0), (1, 2), (2, 1)]
+2025-04-08 09:20:10,400 - INFO - King captured knight at (2, 1). Total kills: 2
+2025-04-08 09:20:10,400 - INFO - AI displayed taunt: A lucky shot... won't happen again.
+2025-04-08 09:20:10,400 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-08 09:20:10,527 - INFO - AI chose move: ((4, 1), (3, 3)) from 2 candidates with score: 33.0
+2025-04-08 09:20:10,527 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-08 09:20:11,279 - INFO - Player 1 selected piece at (2, 1). Possible moves: [(1, 0), (2, 0), (3, 0), (3, 2)]
+2025-04-08 09:20:13,122 - INFO - King captured knight at (3, 0). Total kills: 3
+2025-04-08 09:20:13,122 - INFO - AI displayed taunt: Is that all you've got?
+2025-04-08 09:20:13,122 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-08 09:20:13,248 - INFO - AI chose move: ((4, 3), (5, 1)) from 2 candidates with score: 34.0
+2025-04-08 09:20:13,248 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-08 09:20:13,842 - INFO - Player 1 selected piece at (3, 0). Possible moves: [(2, 0), (3, 1), (4, 0)]
+2025-04-08 09:20:15,093 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-08 09:20:15,217 - INFO - AI chose move: ((3, 3), (5, 2)) from 1 candidates with score: 34.0
+2025-04-08 09:20:15,217 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-08 09:20:15,858 - INFO - Player 1 selected piece at (4, 0). Possible moves: [(4, 1), (5, 0), (5, 1)]
+2025-04-08 09:20:16,689 - INFO - King captured knight at (5, 1). Total kills: 4
+2025-04-08 09:20:16,689 - INFO - AI displayed taunt: Did that make you feel better, your majesty?
+2025-04-08 09:20:16,689 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-08 09:20:16,689 - INFO - Game Over: King captured 4 knights (more than 4).
+2025-04-08 09:20:16,707 - INFO - Scores saved to scores.json
+2025-04-14 18:22:04,938 - INFO - Images loaded successfully.
+2025-04-14 18:22:04,944 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:22:05,990 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-14 18:22:06,382 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 18:22:07,148 - INFO - Player 2 selected piece at (3, 1). Possible moves: [(1, 0), (1, 2), (2, 3), (4, 3), (5, 0), (5, 2)]
+2025-04-14 18:22:07,708 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 18:22:08,698 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 2), (3, 3), (5, 1), (5, 3)]
+2025-04-14 18:22:09,457 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 18:22:11,550 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-14 18:22:12,970 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 18:22:15,473 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(5, 2), (6, 3), (6, 4)]
+2025-04-14 18:22:16,283 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 18:22:16,808 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:22:18,037 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 18:22:18,625 - INFO - Player 1 selected piece at (6, 3). Possible moves: [(5, 3), (6, 2), (6, 4)]
+2025-04-14 18:22:19,100 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 18:22:19,570 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-14 18:22:20,197 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 18:22:21,104 - INFO - Player 1 selected piece at (6, 4). Possible moves: [(5, 5), (6, 3), (6, 5)]
+2025-04-14 18:22:21,548 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 18:22:22,021 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (4, 3), (5, 4), (5, 6)]
+2025-04-14 18:22:23,559 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 18:22:24,214 - INFO - Player 1 selected piece at (6, 5). Possible moves: [(5, 4), (5, 6)]
+2025-04-14 18:22:25,037 - WARNING - Invalid move destination (6, 6) attempted for piece at (6, 5)
+2025-04-14 18:22:25,726 - INFO - Player 1 selected piece at (6, 5). Possible moves: [(5, 4), (5, 6)]
+2025-04-14 18:22:25,973 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 18:22:26,399 - INFO - Player 2 selected piece at (4, 5). Possible moves: [(2, 4), (2, 6), (3, 3), (5, 3), (6, 4), (6, 6)]
+2025-04-14 18:22:28,540 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-14 18:22:29,710 - INFO - Player 1 selected piece at (5, 6). Possible moves: [(4, 6), (6, 5), (6, 6)]
+2025-04-14 18:22:30,120 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-14 18:22:30,612 - INFO - Player 2 selected piece at (4, 3). Possible moves: [(2, 2), (2, 4), (3, 1), (3, 5), (5, 1), (5, 5), (6, 2)]
+2025-04-14 18:22:31,262 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-14 18:22:32,016 - INFO - Player 1 selected piece at (4, 6). Possible moves: [(5, 5)]
+2025-04-14 18:22:32,490 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-14 18:22:33,111 - INFO - Player 2 selected piece at (6, 4). Possible moves: [(4, 3), (4, 5), (5, 2), (5, 6)]
+2025-04-14 18:22:33,601 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-14 18:22:34,306 - INFO - Player 1 selected piece at (5, 5). Possible moves: [(4, 6), (5, 4), (5, 6), (6, 5), (6, 6)]
+2025-04-14 18:22:35,040 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-14 18:22:35,632 - INFO - Player 2 selected piece at (2, 4). Possible moves: [(0, 3), (0, 5), (1, 2), (1, 6), (3, 2), (3, 6), (4, 3), (4, 5)]
+2025-04-14 18:22:38,510 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-14 18:22:39,436 - INFO - Player 1 selected piece at (4, 6). Possible moves: [(3, 6), (4, 5), (5, 5), (5, 6)]
+2025-04-14 18:22:39,967 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-14 18:22:41,113 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (0, 4), (1, 1), (1, 5), (3, 1), (3, 5), (4, 2), (4, 4)]
+2025-04-14 18:22:43,025 - INFO - Turn switched to Player 1. Turn count: 11
+2025-04-14 18:22:43,648 - INFO - Player 1 selected piece at (4, 5). Possible moves: [(4, 6), (5, 4), (5, 5), (5, 6)]
+2025-04-14 18:22:44,186 - INFO - Turn switched to Player 2. Turn count: 11
+2025-04-14 18:22:44,679 - INFO - Player 2 selected piece at (5, 2). Possible moves: [(3, 1), (3, 3), (4, 0), (4, 4), (6, 4)]
+2025-04-14 18:22:45,602 - INFO - Turn switched to Player 1. Turn count: 12
+2025-04-14 18:22:46,722 - INFO - Player 1 selected piece at (5, 4). Possible moves: [(4, 3), (4, 4), (5, 3), (5, 5), (6, 3), (6, 4), (6, 5)]
+2025-04-14 18:22:49,646 - INFO - Turn switched to Player 2. Turn count: 12
+2025-04-14 18:22:51,084 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (2, 5), (4, 1), (4, 5), (5, 2), (5, 4)]
+2025-04-14 18:22:54,342 - INFO - Turn switched to Player 1. Turn count: 13
+2025-04-14 18:22:55,269 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 2), (4, 4), (5, 3), (5, 4)]
+2025-04-14 18:22:55,820 - INFO - Turn switched to Player 2. Turn count: 13
+2025-04-14 18:22:56,384 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:22:57,724 - INFO - Turn switched to Player 1. Turn count: 14
+2025-04-14 18:22:59,451 - INFO - Player 1 selected piece at (3, 2). Possible moves: [(2, 2), (3, 1), (3, 3), (4, 2), (4, 3)]
+2025-04-14 18:22:59,681 - INFO - King captured knight at (3, 3). Total kills: 1
+2025-04-14 18:22:59,681 - INFO - Turn switched to Player 2. Turn count: 14
+2025-04-14 18:23:00,491 - INFO - Player 2 selected piece at (1, 5). Possible moves: [(0, 3), (2, 3), (3, 4), (3, 6)]
+2025-04-14 18:23:01,940 - INFO - Turn switched to Player 1. Turn count: 15
+2025-04-14 18:23:02,693 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 3), (3, 2), (3, 4), (4, 2), (4, 3), (4, 4)]
+2025-04-14 18:23:03,378 - INFO - Turn switched to Player 2. Turn count: 15
+2025-04-14 18:23:04,136 - INFO - Player 2 selected piece at (1, 6). Possible moves: [(0, 4), (2, 4), (3, 5)]
+2025-04-14 18:23:04,583 - INFO - Turn switched to Player 1. Turn count: 16
+2025-04-14 18:23:05,194 - INFO - Player 1 selected piece at (4, 4). Possible moves: [(3, 3), (3, 4), (3, 5), (4, 5), (5, 3), (5, 5)]
+2025-04-14 18:23:06,184 - INFO - King captured knight at (3, 5). Total kills: 2
+2025-04-14 18:23:06,184 - INFO - Turn switched to Player 2. Turn count: 16
+2025-04-14 18:23:07,267 - INFO - Player 2 selected piece at (0, 3). Possible moves: [(1, 1), (1, 5), (2, 2), (2, 4)]
+2025-04-14 18:23:07,825 - INFO - Turn switched to Player 1. Turn count: 17
+2025-04-14 18:23:08,449 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(2, 4), (2, 6), (3, 6), (4, 4), (4, 5), (4, 6)]
+2025-04-14 18:23:08,811 - INFO - Turn switched to Player 2. Turn count: 17
+2025-04-14 18:23:09,365 - INFO - Player 2 selected piece at (2, 2). Possible moves: [(0, 1), (0, 3), (1, 0), (1, 4), (3, 0), (3, 4), (4, 1), (4, 3)]
+2025-04-14 18:23:10,202 - INFO - Turn switched to Player 1. Turn count: 18
+2025-04-14 18:23:43,046 - INFO - Images loaded successfully.
+2025-04-14 18:23:43,046 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:23:43,721 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-14 18:23:44,676 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 18:23:45,217 - INFO - Player 2 selected piece at (3, 1). Possible moves: [(1, 0), (1, 2), (2, 3), (4, 3), (5, 0), (5, 2)]
+2025-04-14 18:23:46,011 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 18:23:46,504 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 2), (3, 3), (5, 3)]
+2025-04-14 18:23:49,325 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 18:23:49,620 - INFO - Player 2 selected piece at (4, 3). Possible moves: [(2, 2), (2, 4), (3, 1), (5, 1), (5, 5), (6, 2), (6, 4)]
+2025-04-14 18:23:50,328 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 18:23:50,953 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 4), (6, 2), (6, 4)]
+2025-04-14 18:23:51,441 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 18:23:51,839 - INFO - Player 2 selected piece at (5, 1). Possible moves: [(3, 0), (3, 2), (4, 3), (6, 3)]
+2025-04-14 18:23:53,134 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 18:23:53,906 - INFO - Player 1 selected piece at (6, 2). Possible moves: [(6, 1), (6, 3)]
+2025-04-14 18:23:54,429 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 18:23:54,775 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-14 18:23:56,525 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 18:23:57,186 - INFO - Player 1 selected piece at (6, 1). Possible moves: [(5, 0), (5, 2)]
+2025-04-14 18:23:58,058 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 18:23:58,482 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:23:59,366 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 18:24:01,024 - INFO - Player 1 selected piece at (5, 0). Possible moves: [(6, 0), (6, 1)]
+2025-04-14 18:24:01,777 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 18:24:01,777 - INFO - Game Over: King reached a safe zone.
+2025-04-14 18:24:01,803 - INFO - Scores saved to scores.json
+2025-04-14 18:24:30,529 - INFO - Images loaded successfully.
+2025-04-14 18:24:30,529 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:24:31,433 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-14 18:24:31,847 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 18:24:32,296 - INFO - Player 2 selected piece at (3, 1). Possible moves: [(1, 0), (1, 2), (2, 3), (4, 3), (5, 0), (5, 2)]
+2025-04-14 18:24:32,726 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 18:24:33,401 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 2), (3, 3), (5, 1), (5, 3)]
+2025-04-14 18:24:33,925 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 18:24:34,483 - INFO - Player 2 selected piece at (6, 0). Possible moves: [(4, 1), (5, 2)]
+2025-04-14 18:24:35,614 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 18:24:36,026 - INFO - Player 1 selected piece at (5, 1). Possible moves: [(4, 0), (4, 1), (5, 0), (5, 2), (6, 1)]
+2025-04-14 18:24:37,412 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 18:24:37,891 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:24:38,413 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 18:24:38,907 - INFO - Player 1 selected piece at (5, 0). Possible moves: [(4, 0), (5, 1), (6, 0)]
+2025-04-14 18:24:39,250 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 18:24:40,032 - INFO - Player 2 selected piece at (5, 3). Possible moves: [(3, 2), (3, 4), (4, 1), (4, 5), (6, 1), (6, 5)]
+2025-04-14 18:24:40,679 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 18:24:41,240 - INFO - Player 1 selected piece at (6, 0). Possible moves: [(5, 0), (5, 1), (6, 1)]
+2025-04-14 18:24:41,787 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 18:24:42,430 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:24:42,910 - WARNING - Invalid move destination (3, 0) attempted for piece at (4, 1)
+2025-04-14 18:24:44,109 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:24:45,344 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 18:24:46,000 - INFO - Player 1 selected piece at (6, 1). Possible moves: [(5, 0), (5, 1), (5, 2), (6, 0), (6, 2)]
+2025-04-14 18:24:46,577 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 18:24:47,151 - INFO - Player 2 selected piece at (5, 3). Possible moves: [(3, 2), (3, 4), (4, 1), (4, 5), (6, 1), (6, 5)]
+2025-04-14 18:24:48,127 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-14 18:24:48,603 - INFO - Player 1 selected piece at (5, 1). Possible moves: [(4, 0), (4, 1), (5, 0), (5, 2), (6, 0), (6, 1), (6, 2)]
+2025-04-14 18:24:49,047 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-14 18:24:49,593 - INFO - Player 2 selected piece at (6, 5). Possible moves: [(4, 4), (4, 6), (5, 3)]
+2025-04-14 18:24:50,133 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-14 18:24:50,825 - INFO - Player 1 selected piece at (5, 2). Possible moves: [(4, 1), (5, 1), (5, 3), (6, 1), (6, 2)]
+2025-04-14 18:24:51,405 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-14 18:24:51,804 - INFO - Player 2 selected piece at (4, 4). Possible moves: [(2, 5), (3, 2), (3, 6), (5, 2), (5, 6), (6, 3), (6, 5)]
+2025-04-14 18:24:52,294 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-14 18:24:52,943 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(5, 2), (6, 2), (6, 3), (6, 4)]
+2025-04-14 18:24:53,563 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-14 18:24:54,339 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-14 18:24:55,306 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-14 18:24:55,783 - INFO - Player 1 selected piece at (6, 4). Possible moves: [(5, 5), (6, 3), (6, 5)]
+2025-04-14 18:24:56,506 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-14 18:24:56,970 - INFO - Player 2 selected piece at (4, 5). Possible moves: [(2, 4), (2, 6), (3, 3), (5, 3), (6, 4), (6, 6)]
+2025-04-14 18:24:57,703 - INFO - Turn switched to Player 1. Turn count: 11
+2025-04-14 18:24:58,677 - INFO - Player 1 selected piece at (5, 5). Possible moves: [(4, 6), (6, 4), (6, 5), (6, 6)]
+2025-04-14 18:24:59,138 - INFO - Turn switched to Player 2. Turn count: 11
+2025-04-14 18:24:59,600 - INFO - Player 2 selected piece at (3, 5). Possible moves: [(1, 4), (1, 6), (4, 3), (5, 4), (5, 6)]
+2025-04-14 18:25:00,093 - INFO - Turn switched to Player 1. Turn count: 12
+2025-04-14 18:25:00,640 - INFO - Player 1 selected piece at (4, 6). Possible moves: [(3, 6), (5, 5), (5, 6)]
+2025-04-14 18:25:01,284 - INFO - Turn switched to Player 2. Turn count: 12
+2025-04-14 18:25:01,900 - INFO - Player 2 selected piece at (5, 4). Possible moves: [(3, 5), (4, 2), (4, 6), (6, 2), (6, 6)]
+2025-04-14 18:25:02,376 - INFO - Turn switched to Player 1. Turn count: 13
+2025-04-14 18:25:02,857 - INFO - Player 1 selected piece at (3, 6). Possible moves: [(2, 6), (4, 6)]
+2025-04-14 18:25:03,513 - INFO - Turn switched to Player 2. Turn count: 13
+2025-04-14 18:25:04,302 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (0, 4), (1, 1), (1, 5), (3, 1), (3, 5), (4, 2), (4, 4)]
+2025-04-14 18:25:04,977 - INFO - Turn switched to Player 1. Turn count: 14
+2025-04-14 18:25:05,474 - INFO - Player 1 selected piece at (2, 6). Possible moves: [(1, 5), (1, 6), (3, 5)]
+2025-04-14 18:25:05,819 - INFO - Turn switched to Player 2. Turn count: 14
+2025-04-14 18:25:06,623 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (2, 5), (4, 1), (4, 5), (5, 2), (5, 4)]
+2025-04-14 18:25:07,905 - INFO - Turn switched to Player 1. Turn count: 15
+2025-04-14 18:25:09,149 - INFO - Player 1 selected piece at (3, 5). Possible moves: [(2, 6), (3, 4)]
+2025-04-14 18:25:09,955 - INFO - Turn switched to Player 2. Turn count: 15
+2025-04-14 18:25:10,288 - INFO - Player 2 selected piece at (4, 4). Possible moves: [(2, 3), (2, 5), (3, 6), (5, 2), (5, 6), (6, 3), (6, 5)]
+2025-04-14 18:25:10,879 - INFO - Turn switched to Player 1. Turn count: 16
+2025-04-14 18:25:11,409 - INFO - Player 1 selected piece at (3, 4). Possible moves: [(2, 3), (4, 3)]
+2025-04-14 18:25:12,003 - INFO - Turn switched to Player 2. Turn count: 16
+2025-04-14 18:25:13,340 - INFO - Player 2 selected piece at (5, 4). Possible moves: [(3, 3), (3, 5), (4, 2), (4, 6), (6, 2)]
+2025-04-14 18:25:14,409 - INFO - Turn switched to Player 1. Turn count: 17
+2025-04-14 18:25:15,013 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 2), (3, 4), (4, 2), (5, 2)]
+2025-04-14 18:25:15,589 - INFO - King captured knight at (3, 2). Total kills: 1
+2025-04-14 18:25:15,589 - INFO - Turn switched to Player 2. Turn count: 17
+2025-04-14 18:25:16,068 - INFO - Player 2 selected piece at (6, 2). Possible moves: [(4, 1), (4, 3), (5, 0), (5, 4)]
+2025-04-14 18:25:16,611 - WARNING - Invalid move destination (5, 3) attempted for piece at (6, 2)
+2025-04-14 18:25:17,618 - INFO - Player 2 selected piece at (6, 2). Possible moves: [(4, 1), (4, 3), (5, 0), (5, 4)]
+2025-04-14 18:25:17,895 - INFO - Turn switched to Player 1. Turn count: 18
+2025-04-14 18:25:18,550 - INFO - Player 1 selected piece at (3, 2). Possible moves: [(2, 2), (2, 3), (3, 1), (4, 1), (4, 3)]
+2025-04-14 18:25:19,289 - INFO - Turn switched to Player 2. Turn count: 18
+2025-04-14 18:25:19,830 - INFO - Player 2 selected piece at (5, 4). Possible moves: [(3, 3), (3, 5), (4, 2), (4, 6), (6, 2)]
+2025-04-14 18:25:20,276 - INFO - Turn switched to Player 1. Turn count: 19
+2025-04-14 18:25:20,785 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 2), (4, 2), (5, 2), (5, 3)]
+2025-04-14 18:25:21,065 - INFO - Turn switched to Player 2. Turn count: 19
+2025-04-14 18:25:21,623 - INFO - Player 2 selected piece at (2, 5). Possible moves: [(0, 4), (1, 3), (3, 3), (4, 4)]
+2025-04-14 18:25:21,970 - INFO - Turn switched to Player 1. Turn count: 20
+2025-04-14 18:25:22,409 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 3), (4, 4), (6, 2), (6, 3), (6, 4)]
+2025-04-14 18:25:22,671 - WARNING - Invalid move destination (5, 2) attempted for piece at (5, 3)
+2025-04-14 18:25:23,226 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 3), (4, 4), (6, 2), (6, 3), (6, 4)]
+2025-04-14 18:25:23,557 - INFO - Turn switched to Player 2. Turn count: 20
+2025-04-14 18:25:24,252 - INFO - Player 2 selected piece at (4, 6). Possible moves: [(2, 5), (3, 4), (5, 4), (6, 5)]
+2025-04-14 18:25:24,779 - INFO - Turn switched to Player 1. Turn count: 21
+2025-04-14 18:25:27,612 - INFO - Player 1 selected piece at (6, 4). Possible moves: [(5, 3), (5, 5), (6, 3), (6, 5)]
+2025-04-14 18:25:28,624 - WARNING - Invalid move destination (6, 4) attempted for piece at (6, 4)
+2025-04-14 18:25:29,536 - INFO - Player 1 selected piece at (6, 4). Possible moves: [(5, 3), (5, 5), (6, 3), (6, 5)]
+2025-04-14 18:25:29,896 - INFO - Turn switched to Player 2. Turn count: 21
+2025-04-14 18:25:30,795 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1), (4, 5), (5, 2), (5, 4)]
+2025-04-14 18:25:31,322 - WARNING - Invalid move destination (4, 4) attempted for piece at (3, 3)
+2025-04-14 18:25:32,147 - INFO - Player 2 selected piece at (6, 6). Possible moves: [(4, 5), (5, 4)]
+2025-04-14 18:25:32,745 - INFO - Turn switched to Player 1. Turn count: 22
+2025-04-14 18:25:33,523 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 2), (4, 3), (6, 2), (6, 3)]
+2025-04-14 18:25:34,013 - INFO - Turn switched to Player 2. Turn count: 22
+2025-04-14 18:25:34,621 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1), (5, 2), (5, 4)]
+2025-04-14 18:25:35,297 - INFO - Turn switched to Player 1. Turn count: 23
+2025-04-14 18:25:36,027 - INFO - Player 1 selected piece at (6, 2). Possible moves: [(5, 1), (5, 2), (6, 1), (6, 3)]
+2025-04-14 18:25:36,608 - INFO - Turn switched to Player 2. Turn count: 23
+2025-04-14 18:25:37,088 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3), (5, 3), (6, 0), (6, 2)]
+2025-04-14 18:25:37,484 - INFO - Turn switched to Player 1. Turn count: 24
+2025-04-14 18:25:37,962 - INFO - Player 1 selected piece at (5, 2). Possible moves: [(4, 2), (4, 3), (5, 1), (6, 1), (6, 2), (6, 3)]
+2025-04-14 18:25:38,474 - INFO - Turn switched to Player 2. Turn count: 24
+2025-04-14 18:25:39,418 - INFO - Player 2 selected piece at (4, 5). Possible moves: [(2, 4), (2, 6), (5, 3), (6, 4), (6, 6)]
+2025-04-14 18:25:39,980 - INFO - Turn switched to Player 1. Turn count: 25
+2025-04-14 18:25:40,558 - INFO - Player 1 selected piece at (6, 3). Possible moves: [(5, 3), (6, 2), (6, 4)]
+2025-04-14 18:25:41,438 - INFO - Turn switched to Player 2. Turn count: 25
+2025-04-14 18:25:42,279 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1), (4, 5), (5, 2), (5, 4)]
+2025-04-14 18:25:42,975 - INFO - Turn switched to Player 1. Turn count: 26
+2025-04-14 18:25:43,601 - INFO - Player 1 selected piece at (5, 3). Possible moves: [(4, 3), (5, 2), (6, 2), (6, 3), (6, 4)]
+2025-04-14 18:25:44,050 - INFO - Turn switched to Player 2. Turn count: 26
+2025-04-14 18:25:44,711 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:25:45,210 - WARNING - Invalid move destination (3, 2) attempted for piece at (2, 1)
+2025-04-14 18:25:46,447 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:25:46,926 - INFO - Turn switched to Player 1. Turn count: 27
+2025-04-14 18:25:47,505 - INFO - Player 1 selected piece at (5, 2). Possible moves: [(4, 2), (4, 3), (5, 1), (5, 3), (6, 1), (6, 2), (6, 3)]
+2025-04-14 18:25:48,050 - INFO - Turn switched to Player 2. Turn count: 27
+2025-04-14 18:25:48,662 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1), (4, 5), (5, 2), (5, 4)]
+2025-04-14 18:25:49,325 - INFO - Turn switched to Player 1. Turn count: 28
+2025-04-14 18:25:49,855 - INFO - Player 1 selected piece at (5, 1). Possible moves: [(4, 0), (4, 1), (5, 0), (5, 2), (6, 0), (6, 1)]
+2025-04-14 18:25:50,379 - INFO - Turn switched to Player 2. Turn count: 28
+2025-04-14 18:25:50,961 - INFO - Player 2 selected piece at (5, 4). Possible moves: [(3, 3), (3, 5), (4, 2), (4, 6), (6, 2)]
+2025-04-14 18:25:51,407 - INFO - Turn switched to Player 1. Turn count: 29
+2025-04-14 18:25:51,819 - INFO - Player 1 selected piece at (4, 1). Possible moves: [(3, 0), (3, 1), (3, 2), (4, 0), (4, 2), (5, 1), (5, 2)]
+2025-04-14 18:25:52,132 - INFO - Turn switched to Player 2. Turn count: 29
+2025-04-14 18:25:52,607 - INFO - Player 2 selected piece at (6, 2). Possible moves: [(4, 1), (4, 3), (5, 0), (5, 4)]
+2025-04-14 18:25:53,058 - INFO - Turn switched to Player 1. Turn count: 30
+2025-04-14 18:25:53,058 - INFO - Game Over: Knights win by siege (30 turns reached).
+2025-04-14 18:25:53,062 - INFO - Scores saved to scores.json
+2025-04-14 18:26:45,710 - INFO - Images loaded successfully.
+2025-04-14 18:26:45,711 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:26:46,586 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:26:47,877 - WARNING - Invalid move destination (2, 1) attempted for piece at (2, 2)
+2025-04-14 18:26:48,555 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:26:48,856 - WARNING - Invalid move destination (1, 2) attempted for piece at (2, 2)
+2025-04-14 18:26:49,387 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:26:49,749 - WARNING - Invalid move destination (2, 3) attempted for piece at (2, 2)
+2025-04-14 18:26:50,190 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:26:50,550 - WARNING - Invalid move destination (2, 3) attempted for piece at (2, 2)
+2025-04-14 18:27:13,736 - INFO - Images loaded successfully.
+2025-04-14 18:27:13,736 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:27:14,575 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:27:20,694 - INFO - Images loaded successfully.
+2025-04-14 18:27:20,694 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:27:21,589 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:27:21,882 - WARNING - Invalid move destination (2, 1) attempted for piece at (2, 2)
+2025-04-14 18:28:15,768 - INFO - Images loaded successfully.
+2025-04-14 18:28:15,769 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:28:16,852 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:28:17,197 - WARNING - Invalid move destination (3, 2) attempted for piece at (2, 2)
+2025-04-14 18:28:17,993 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:28:18,351 - WARNING - Invalid move destination (2, 1) attempted for piece at (2, 2)
+2025-04-14 18:28:18,691 - INFO - Player 1 selected piece at (2, 2). Possible moves: []
+2025-04-14 18:28:18,986 - WARNING - Invalid move destination (1, 3) attempted for piece at (2, 2)
+2025-04-14 18:28:30,265 - INFO - Images loaded successfully.
+2025-04-14 18:28:30,266 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:29:01,621 - INFO - Images loaded successfully.
+2025-04-14 18:29:01,621 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:29:02,470 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 18:29:03,327 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 18:29:04,226 - INFO - Player 2 selected piece at (4, 0). Possible moves: [(2, 1), (3, 2)]
+2025-04-14 18:29:05,381 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 18:29:05,975 - INFO - Player 1 selected piece at (3, 1). Possible moves: [(2, 0), (2, 2), (3, 0), (4, 1)]
+2025-04-14 18:29:07,617 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 18:29:08,311 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:29:09,164 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 18:29:09,760 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 18:29:10,386 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 18:29:11,518 - INFO - Player 2 selected piece at (4, 2). Possible moves: [(2, 1), (2, 3), (3, 0), (3, 4)]
+2025-04-14 18:29:12,239 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 18:29:13,006 - INFO - Player 1 selected piece at (3, 1). Possible moves: [(2, 0), (2, 2), (3, 0), (4, 0), (4, 1)]
+2025-04-14 18:29:13,800 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 18:29:14,558 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (1, 1), (3, 1), (4, 2)]
+2025-04-14 18:29:15,285 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 18:29:15,780 - INFO - Player 1 selected piece at (4, 1). Possible moves: [(3, 1), (4, 0), (4, 2)]
+2025-04-14 18:29:16,208 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 18:29:16,748 - INFO - Player 2 selected piece at (4, 4). Possible moves: [(2, 3), (3, 2)]
+2025-04-14 18:29:17,510 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 18:29:18,073 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 3), (4, 1), (4, 3)]
+2025-04-14 18:29:18,681 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 18:29:20,157 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (3, 1), (4, 2), (4, 4)]
+2025-04-14 18:29:22,970 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-14 18:29:23,412 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 4), (4, 2), (4, 3), (4, 4)]
+2025-04-14 18:29:24,338 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-14 18:29:25,114 - INFO - Player 2 selected piece at (1, 1). Possible moves: [(0, 3), (2, 3), (3, 0), (3, 2)]
+2025-04-14 18:29:27,215 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-14 18:29:27,776 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 3), (3, 1), (3, 2), (3, 3)]
+2025-04-14 18:29:29,916 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-14 18:29:30,512 - INFO - Player 2 selected piece at (0, 3). Possible moves: [(1, 1), (2, 2), (2, 4)]
+2025-04-14 18:29:31,778 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-14 18:29:32,448 - INFO - Player 1 selected piece at (1, 3). Possible moves: [(0, 2), (0, 4), (2, 2), (2, 4)]
+2025-04-14 18:29:32,858 - INFO - King captured knight at (0, 2). Total kills: 1
+2025-04-14 18:29:32,858 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-14 18:29:33,750 - INFO - Player 2 selected piece at (2, 2). Possible moves: [(0, 1), (0, 3), (1, 0), (1, 4), (3, 0), (3, 4), (4, 1), (4, 3)]
+2025-04-14 18:29:34,658 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-14 18:29:35,429 - INFO - Player 1 selected piece at (0, 2). Possible moves: [(0, 1), (0, 3), (1, 1), (1, 3)]
+2025-04-14 18:29:35,889 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-14 18:29:36,623 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3)]
+2025-04-14 18:29:37,131 - INFO - Turn switched to Player 1. Turn count: 11
+2025-04-14 18:29:37,642 - INFO - Player 1 selected piece at (1, 1). Possible moves: [(0, 0), (0, 1), (0, 2), (1, 0), (2, 0), (2, 2)]
+2025-04-14 18:29:37,943 - INFO - King captured knight at (0, 0). Total kills: 2
+2025-04-14 18:29:37,943 - INFO - Turn switched to Player 2. Turn count: 11
+2025-04-14 18:29:38,683 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1)]
+2025-04-14 18:29:39,451 - INFO - Turn switched to Player 1. Turn count: 12
+2025-04-14 18:29:40,125 - INFO - Player 1 selected piece at (0, 0). Possible moves: [(0, 1), (1, 0), (1, 1)]
+2025-04-14 18:29:40,833 - INFO - Turn switched to Player 2. Turn count: 12
+2025-04-14 18:29:41,482 - INFO - Player 2 selected piece at (4, 1). Possible moves: [(2, 0), (2, 2), (3, 3)]
+2025-04-14 18:29:42,079 - INFO - Turn switched to Player 1. Turn count: 13
+2025-04-14 18:29:42,704 - INFO - Player 1 selected piece at (1, 1). Possible moves: [(0, 0), (0, 1), (0, 2), (1, 0), (2, 0), (2, 2)]
+2025-04-14 18:29:43,285 - INFO - Turn switched to Player 2. Turn count: 13
+2025-04-14 18:29:44,454 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1)]
+2025-04-14 18:29:45,177 - INFO - Turn switched to Player 1. Turn count: 14
+2025-04-14 18:29:46,013 - INFO - Player 1 selected piece at (0, 2). Possible moves: [(0, 1), (0, 3), (1, 1)]
+2025-04-14 18:29:46,838 - INFO - Turn switched to Player 2. Turn count: 14
+2025-04-14 18:29:47,186 - INFO - Player 2 selected piece at (0, 4). Possible moves: [(1, 2), (2, 3)]
+2025-04-14 18:29:47,751 - INFO - Turn switched to Player 1. Turn count: 15
+2025-04-14 18:29:48,697 - INFO - Player 1 selected piece at (0, 3). Possible moves: [(1, 2), (1, 4)]
+2025-04-14 18:29:51,605 - INFO - Turn switched to Player 2. Turn count: 15
+2025-04-14 18:29:52,000 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (0, 4), (1, 1), (3, 1), (4, 2), (4, 4)]
+2025-04-14 18:29:52,739 - INFO - Turn switched to Player 1. Turn count: 16
+2025-04-14 18:29:57,181 - INFO - Player 1 selected piece at (1, 4). Possible moves: [(0, 3), (0, 4), (2, 4)]
+2025-04-14 18:29:57,877 - INFO - Turn switched to Player 2. Turn count: 16
+2025-04-14 18:29:58,421 - INFO - Player 2 selected piece at (4, 2). Possible moves: [(2, 3), (3, 0), (3, 4)]
+2025-04-14 18:29:59,888 - INFO - Turn switched to Player 1. Turn count: 17
+2025-04-14 18:30:09,614 - INFO - Player 1 selected piece at (2, 4). Possible moves: [(1, 4), (2, 3), (3, 4)]
+2025-04-14 18:30:10,559 - INFO - Turn switched to Player 2. Turn count: 17
+2025-04-14 18:30:15,869 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 0), (0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:30:16,533 - INFO - Turn switched to Player 1. Turn count: 18
+2025-04-14 18:30:17,147 - INFO - Player 1 selected piece at (2, 3). Possible moves: [(1, 2), (1, 3), (1, 4), (2, 4), (3, 2), (3, 3)]
+2025-04-14 18:30:17,857 - INFO - Turn switched to Player 2. Turn count: 18
+2025-04-14 18:31:38,774 - INFO - Images loaded successfully.
+2025-04-14 18:31:38,775 - INFO - Game state reset. Mode: pvp
+2025-04-14 18:31:39,432 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 18:31:40,125 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 18:31:40,565 - INFO - Player 2 selected piece at (4, 4). Possible moves: [(2, 3), (3, 2)]
+2025-04-14 18:31:42,396 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 18:31:42,742 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 4), (3, 4), (4, 3)]
+2025-04-14 18:31:43,602 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 18:31:44,377 - INFO - Player 2 selected piece at (4, 0). Possible moves: [(2, 1), (3, 2)]
+2025-04-14 18:31:45,128 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 18:31:45,637 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 2), (3, 4)]
+2025-04-14 18:31:46,659 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 18:31:47,097 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (1, 1), (3, 1), (4, 2), (4, 4)]
+2025-04-14 18:31:47,744 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 18:31:48,421 - INFO - Player 1 selected piece at (3, 4). Possible moves: [(2, 4), (4, 3), (4, 4)]
+2025-04-14 18:31:49,280 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 18:31:49,906 - INFO - Player 2 selected piece at (4, 2). Possible moves: [(2, 3), (3, 0), (3, 4)]
+2025-04-14 18:31:51,226 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 18:31:51,722 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 2), (3, 4)]
+2025-04-14 18:31:52,409 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 18:31:52,986 - INFO - Player 2 selected piece at (2, 1). Possible moves: [(0, 2), (1, 3), (3, 3), (4, 0), (4, 2)]
+2025-04-14 18:31:54,187 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 18:31:55,107 - INFO - Player 1 selected piece at (3, 2). Possible moves: [(2, 2), (3, 3), (4, 1), (4, 3)]
+2025-04-14 18:31:56,161 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 18:31:58,283 - INFO - Player 2 selected piece at (4, 0). Possible moves: [(2, 1), (3, 2)]
+2025-04-14 18:31:59,608 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-14 18:32:00,409 - INFO - Player 1 selected piece at (4, 1). Possible moves: [(3, 0), (3, 2)]
+2025-04-14 18:32:00,954 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-14 18:32:02,243 - INFO - Player 2 selected piece at (0, 0). Possible moves: [(1, 2)]
+2025-04-14 18:32:03,593 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-14 18:32:06,316 - INFO - Player 1 selected piece at (3, 0). Possible moves: [(2, 1), (4, 1)]
+2025-04-14 18:32:06,712 - INFO - King captured knight at (2, 1). Total kills: 1
+2025-04-14 18:32:06,712 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-14 18:32:07,679 - INFO - Player 2 selected piece at (1, 2). Possible moves: [(0, 0), (2, 0), (2, 4), (3, 1), (3, 3)]
+2025-04-14 18:32:08,570 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-14 18:32:09,113 - INFO - Player 1 selected piece at (2, 1). Possible moves: [(1, 0), (2, 0), (2, 2), (3, 0), (3, 2)]
+2025-04-14 18:32:09,578 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-14 18:32:10,131 - INFO - Player 2 selected piece at (2, 3). Possible moves: [(0, 2), (1, 1), (3, 1), (4, 2), (4, 4)]
+2025-04-14 18:32:11,001 - INFO - Turn switched to Player 1. Turn count: 10
+2025-04-14 18:32:11,621 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 18:32:12,015 - INFO - King captured knight at (1, 1). Total kills: 2
+2025-04-14 18:32:12,015 - INFO - Turn switched to Player 2. Turn count: 10
+2025-04-14 18:32:12,820 - INFO - Player 2 selected piece at (3, 3). Possible moves: [(1, 2), (1, 4), (2, 1), (4, 1)]
+2025-04-14 18:32:13,705 - INFO - Turn switched to Player 1. Turn count: 11
+2025-04-14 18:32:14,180 - INFO - Player 1 selected piece at (1, 1). Possible moves: [(0, 1), (1, 0), (2, 0), (2, 1), (2, 2)]
+2025-04-14 18:32:14,894 - INFO - King captured knight at (2, 1). Total kills: 3
+2025-04-14 18:32:14,894 - INFO - Turn switched to Player 2. Turn count: 11
+2025-04-14 18:32:14,894 - INFO - Game Over: King captured 3 knights (5 or more).
+2025-04-14 18:32:14,900 - INFO - Scores saved to scores.json
+2025-04-14 19:51:03,750 - INFO - Images loaded successfully.
+2025-04-14 19:51:03,762 - INFO - Game state reset. Mode: pvp
+2025-04-14 19:51:04,619 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 19:51:04,994 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 19:51:05,567 - INFO - Player 2 selected piece at (4, 0). Possible moves: [(2, 1), (3, 2)]
+2025-04-14 19:51:06,614 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 19:51:06,971 - INFO - Player 1 selected piece at (3, 1). Possible moves: [(2, 2), (3, 0), (4, 1), (4, 2)]
+2025-04-14 19:51:07,873 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 19:51:08,493 - INFO - Player 2 selected piece at (3, 2). Possible moves: [(1, 1), (1, 3), (2, 0), (2, 4), (4, 0)]
+2025-04-14 19:51:09,488 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 19:51:10,326 - INFO - Player 1 selected piece at (4, 1). Possible moves: [(3, 0), (3, 1), (4, 0), (4, 2)]
+2025-04-14 19:51:11,116 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 19:51:19,679 - INFO - Images loaded successfully.
+2025-04-14 19:51:19,680 - INFO - Game state reset. Mode: pva
+2025-04-14 19:51:20,191 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 19:51:20,809 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 19:51:20,927 - INFO - AI chose move: ((0, 0), (1, 2)) from 2 candidates with score: 117.0
+2025-04-14 19:51:20,927 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 19:51:21,931 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (3, 4), (4, 2), (4, 3), (4, 4)]
+2025-04-14 19:51:23,096 - INFO - King captured knight at (4, 4). Total kills: 1
+2025-04-14 19:51:23,096 - INFO - AI displayed taunt: Error in calculation... or was it?
+2025-04-14 19:51:23,096 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 19:51:23,215 - INFO - AI chose move: ((0, 4), (2, 3)) from 2 candidates with score: 113.0
+2025-04-14 19:51:23,215 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 19:51:25,717 - INFO - Player 1 selected piece at (4, 4). Possible moves: [(3, 4), (4, 3)]
+2025-04-14 19:51:26,468 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 19:51:26,588 - INFO - AI chose move: ((1, 2), (2, 4)) from 1 candidates with score: 130.66666666666669
+2025-04-14 19:51:26,588 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 19:51:27,263 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 3), (3, 4)]
+2025-04-14 19:51:27,919 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 19:51:28,038 - INFO - AI chose move: ((4, 0), (2, 1)) from 1 candidates with score: 133.0
+2025-04-14 19:51:28,038 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 19:51:28,778 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 2), (2, 3), (2, 4), (3, 4)]
+2025-04-14 19:51:29,553 - INFO - King captured knight at (2, 3). Total kills: 2
+2025-04-14 19:51:29,553 - INFO - AI displayed taunt: Did that make you feel better, your majesty?
+2025-04-14 19:51:29,553 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 19:51:29,673 - INFO - AI chose move: ((2, 1), (4, 2)) from 2 candidates with score: 105.0
+2025-04-14 19:51:29,673 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 19:51:31,136 - INFO - Player 1 selected piece at (2, 3). Possible moves: [(1, 3), (1, 4), (2, 2), (2, 4), (3, 3)]
+2025-04-14 19:51:31,695 - INFO - King captured knight at (2, 4). Total kills: 3
+2025-04-14 19:51:31,695 - INFO - AI displayed taunt: That piece was expendable.
+2025-04-14 19:51:31,695 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 19:51:31,695 - INFO - Game Over: King captured 3 knights (5 or more).
+2025-04-14 19:51:31,700 - INFO - Scores saved to scores.json
+2025-04-14 19:51:33,619 - INFO - Images loaded successfully.
+2025-04-14 19:51:33,620 - INFO - Game state reset. Mode: pvp
+2025-04-14 19:51:34,286 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 19:51:49,193 - INFO - Images loaded successfully.
+2025-04-14 19:51:49,194 - INFO - Game state reset. Mode: pva
+2025-04-14 19:51:49,928 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-14 19:51:50,290 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-14 19:51:50,408 - INFO - AI chose move: ((0, 4), (1, 2)) from 2 candidates with score: 117.0
+2025-04-14 19:51:50,408 - INFO - Turn switched to Player 1. Turn count: 2
+2025-04-14 19:51:51,134 - INFO - Player 1 selected piece at (3, 1). Possible moves: [(2, 2), (3, 0), (4, 0), (4, 1), (4, 2)]
+2025-04-14 19:51:51,811 - INFO - King captured knight at (4, 0). Total kills: 1
+2025-04-14 19:51:51,811 - INFO - AI displayed taunt: My network learns from your 'success'.
+2025-04-14 19:51:51,811 - INFO - Turn switched to Player 2. Turn count: 2
+2025-04-14 19:51:51,928 - INFO - AI chose move: ((0, 0), (2, 1)) from 2 candidates with score: 113.0
+2025-04-14 19:51:51,929 - INFO - Turn switched to Player 1. Turn count: 3
+2025-04-14 19:51:52,528 - INFO - Player 1 selected piece at (4, 0). Possible moves: [(3, 0), (4, 1)]
+2025-04-14 19:51:53,092 - INFO - Turn switched to Player 2. Turn count: 3
+2025-04-14 19:51:53,212 - INFO - AI chose move: ((2, 1), (4, 2)) from 1 candidates with score: 120.0
+2025-04-14 19:51:53,212 - INFO - Turn switched to Player 1. Turn count: 4
+2025-04-14 19:51:53,705 - INFO - Player 1 selected piece at (3, 0). Possible moves: [(4, 0), (4, 1)]
+2025-04-14 19:51:54,247 - INFO - Turn switched to Player 2. Turn count: 4
+2025-04-14 19:51:54,367 - INFO - AI chose move: ((1, 2), (2, 0)) from 2 candidates with score: 125.33333333333333
+2025-04-14 19:51:54,367 - INFO - Turn switched to Player 1. Turn count: 5
+2025-04-14 19:51:54,852 - INFO - Player 1 selected piece at (4, 1). Possible moves: [(3, 1), (4, 0), (4, 2)]
+2025-04-14 19:51:55,709 - INFO - King captured knight at (4, 2). Total kills: 2
+2025-04-14 19:51:55,709 - INFO - AI displayed taunt: Did that make you feel better, your majesty?
+2025-04-14 19:51:55,709 - INFO - Turn switched to Player 2. Turn count: 5
+2025-04-14 19:51:55,830 - INFO - AI chose move: ((4, 4), (2, 3)) from 1 candidates with score: 113.0
+2025-04-14 19:51:55,830 - INFO - Turn switched to Player 1. Turn count: 6
+2025-04-14 19:51:56,557 - INFO - Player 1 selected piece at (4, 2). Possible moves: [(3, 3), (4, 3)]
+2025-04-14 19:51:57,014 - INFO - Turn switched to Player 2. Turn count: 6
+2025-04-14 19:51:57,133 - INFO - AI chose move: ((2, 3), (3, 1)) from 1 candidates with score: 86.0
+2025-04-14 19:51:57,134 - INFO - Turn switched to Player 1. Turn count: 7
+2025-04-14 19:51:57,680 - INFO - Player 1 selected piece at (4, 3). Possible moves: [(3, 3), (3, 4), (4, 2), (4, 4)]
+2025-04-14 19:51:58,294 - INFO - Turn switched to Player 2. Turn count: 7
+2025-04-14 19:51:58,414 - INFO - AI chose move: ((2, 0), (4, 1)) from 2 candidates with score: 90.0
+2025-04-14 19:51:58,414 - INFO - Turn switched to Player 1. Turn count: 8
+2025-04-14 19:51:58,874 - INFO - Player 1 selected piece at (3, 3). Possible moves: [(2, 4), (3, 2), (3, 4), (4, 2), (4, 4)]
+2025-04-14 19:51:59,536 - INFO - Turn switched to Player 2. Turn count: 8
+2025-04-14 19:51:59,655 - INFO - AI chose move: ((4, 1), (2, 0)) from 1 candidates with score: 106.0
+2025-04-14 19:51:59,655 - INFO - Turn switched to Player 1. Turn count: 9
+2025-04-14 19:52:00,295 - INFO - Player 1 selected piece at (3, 2). Possible moves: [(2, 1), (2, 2), (3, 1), (3, 3), (4, 2)]
+2025-04-14 19:52:00,783 - INFO - King captured knight at (3, 1). Total kills: 3
+2025-04-14 19:52:00,783 - INFO - AI displayed taunt: Proceed. My traps await.
+2025-04-14 19:52:00,783 - INFO - Turn switched to Player 2. Turn count: 9
+2025-04-14 19:52:00,783 - INFO - Game Over: King captured 3 knights (5 or more).
+2025-04-14 19:52:00,788 - INFO - Scores saved to scores.json
+2025-04-29 14:19:20,539 - INFO - Images loaded successfully.
+2025-04-29 14:19:20,546 - INFO - Game state reset. Mode: pvp
+2025-04-29 14:20:39,820 - INFO - Images loaded successfully.
+2025-04-29 14:20:39,820 - INFO - Game state reset. Mode: pva
+2025-04-29 14:21:43,822 - INFO - Images loaded successfully.
+2025-04-29 14:21:43,822 - INFO - Game state reset. Mode: pvp
+2025-04-29 14:21:45,458 - INFO - Player 1 selected piece at (2, 2). Possible moves: [(1, 1), (1, 3), (3, 1), (3, 3)]
+2025-04-29 14:21:46,206 - INFO - Turn switched to Player 2. Turn count: 1
+2025-04-29 14:21:47,125 - INFO - Player 2 selected piece at (4, 4). Possible moves: [(2, 3), (3, 2)]
+2025-04-29 14:21:47,810 - INFO - Turn switched to Player 1. Turn count: 2

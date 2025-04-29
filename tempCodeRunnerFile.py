@@ -1,0 +1,1 @@
+self.king_kills
